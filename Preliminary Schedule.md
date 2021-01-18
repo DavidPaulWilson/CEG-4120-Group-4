@@ -1,4 +1,4 @@
-# Preliminary Schedule for developing Scrable/Monopoly web app
+# Preliminary Schedule for developing Scrabble/Monopoly web app
 Since the project is due the week of 4/19, it would wise to set our "due date" to be a week (or more) before that to allow last minute revisions.
 
 
